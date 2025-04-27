@@ -1,0 +1,22 @@
+.editor-container {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.editor-textarea {
+  width: 100%;
+  min-height: 200px;
+  padding: 12px;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  border: none;
+  outline: none;
+  resize: vertical;
+}
+
+.editor-textarea:focus {
+  box-shadow: 0 0 0 2px rgba(0, 120, 212, 0.2);
+} 
