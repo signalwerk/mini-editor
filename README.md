@@ -15,6 +15,8 @@ A lightweight, extensible React text editor with a plugin system.
 
 ```bash
 npm install mini-editor
+# or directly from github
+npm install https://github.com/signalwerk/mini-editor.git
 ```
 
 ## Usage

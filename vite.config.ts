@@ -14,7 +14,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve("src/index.ts"),
-      name: "miniEditor",
+      name: "mini-editor",
       formats: ["es"],
       fileName: "index",
     },
