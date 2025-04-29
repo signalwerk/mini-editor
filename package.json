@@ -1,5 +1,5 @@
 {
-  "name": "minieditor",
+  "name": "mini-editor",
   "private": false,
   "version": "0.1.0",
   "type": "module",
@@ -19,7 +19,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:ui": "vitest --ui",
-    "prettier": "prettier --write '**/*.{js,jsx,ts,tsx}'"
+    "prettier": "prettier --write '**/*.{js,jsx,ts,tsx,json,html}'"
   },
   "dependencies": {
     "react": "^19.0.0",
